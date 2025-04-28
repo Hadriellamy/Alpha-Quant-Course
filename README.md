@@ -15,15 +15,3 @@ What sets this course apart from others is that it's not just a programming cour
 ***The focus is put on the application using MetaTrader 5 💪. (If you are looking for a theoretical course, this one is not made for you).***
 
 
-The course was created by a degree holder in mathematics and economics who specializes in applying math to finance.
-
-
-To make the most of your learning experience, we provide a Discord forum where you can ask questions and read our quantitative finance articles.
-
-
-**And, if you're not completely satisfied with the course, we offer a 15-day satisfaction guarantee. Don't miss out on this opportunity to improve your knowledge of this fascinating subject - enroll today!**
-
-
-🔥 More information there: https://www.quantreo.com <br>
-👥 Join the Public Discord community: https://discord.gg/qGX9JNku67 <br>
-(the private forums are only available if you follow the Alpha Quant Programm)
